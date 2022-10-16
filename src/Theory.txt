@@ -1,0 +1,11 @@
+hooks in React => We can use class component feature in functional component such as "state,life-cycle,pure-component" etc 
+
+Basically hame pta hai ki ham "Class component" me "state","Life-Cycle","Pure component" ye sab ham use krte hai lekin ye sab ham sirf CLASS COMPONENT  me hi use kar sakte hai FUNCTION COMPONENT me nhi 
+
+FUNCTION COMPONENT me "state,life-cycle,pure component" ko use krne ke liye ham HOOKS ka use krte hai
+
+Jisme bhi sabse pehle "use" aa jaye to vo hooks hota hai
+e.g.=> useState,useReducer etc.
+
+note=> useEffect hooks sabse jyada use hota hai
+
